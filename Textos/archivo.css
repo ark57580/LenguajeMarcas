@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(255, 255, 255);
+    
+}
+
+h1 {
+    color: rgb(226, 33, 129);
+    font-family: Verdana;
+    font-size: 400%;
+    margin: 5%;
+}
+h2 {
+    color: rgb(59, 18, 39);
+    font-family: Verdana;
+    font-size: 200%;
+    margin:70pt;
+}
+#p01{
+    color: blueviolet;
+    font-family: courier;
+}
+#p02{
+    color: rgb(28, 226, 28);
+    font-family: 'Segoe UI';
+}
+#p03{
+    color: rgb(28, 226, 28);
+    font-family: verdana;
+}
+.dif{
+    color: brown;
+    border-style: dotted;
+}
+p {
+    color: rgb(67, 49, 116);
+    font-family: sans-serif;
+    font-size: 160%;
+    border-style:dashed;
+    border-width: 5px;
+    padding: 15%;
+    margin-left: 10%;
+    
+}

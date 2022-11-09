@@ -6,4 +6,16 @@ del{
 ins{
     font-size: 25px;
     color: green;
+    vertical-align: 10px;
+}
+#negrita{
+    font-size: 25px;
+    font-weight: bold;
+}
+#parriba{
+    vertical-align: 10px;
+    font-size: small;
+}
+#pabajo{
+    vertical-align: -10px;
 }

@@ -1,0 +1,20 @@
+h2{
+    text-transform: uppercase;
+    text-align: center;
+}
+h3{
+    background-color: bisque;
+    color: red;
+    text-transform: capitalize;
+}
+p{
+    background-color: rgb(231, 231, 226);
+}
+i{
+    color: blue;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+b{
+    color: green;
+}

@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(197, 218, 218);
+}
+div.D1{
+    background-color: aqua;
+    border-style: dashed;
+    font-size: small;
+    text-align: justify;
+    
+}

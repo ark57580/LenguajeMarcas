@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(114, 149, 196);
+}
+h1{
+    text-align: right;
+}
+#rojo{
+    color: red;
+    font-family:"Comic Sans MS";
+}
+p{
+    text-indent: 1cm;
+}
+span.rojo{
+    color: red;
+}
+span.otro{
+    color: rgb(224, 133, 80);
+}
+i{
+    background-color: antiquewhite;
+    color: green;
+}
+b{
+    color:rgb(172, 94, 0)
+}

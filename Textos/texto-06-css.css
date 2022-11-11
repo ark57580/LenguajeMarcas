@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(131, 179, 235);
+}
+h2{
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 35px;
+    text-align: center;
+}
+h3{
+    background-color: rgb(92, 127, 194);
+    text-transform: uppercase;
+    font-size: 20px;
+}
+p{
+    text-align: justify;
+}
+pre{
+    padding-left: 1cm;
+}

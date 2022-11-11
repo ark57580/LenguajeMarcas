@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(159, 167, 184)
+}
+h2{
+    text-transform: uppercase;
+    font-size: 250%;
+    text-align: center;
+    font-family: Courier;
+}
+h3{
+    background-color: rgb(87, 97, 105);
+    text-decoration: underline;
+    font-size: 20pt;
+}
+p{
+    background-color: rgb(178, 185, 199);
+}
+#Especial{
+    background-color: white;
+    text-align: right;
+    font-weight: bolder;
+}

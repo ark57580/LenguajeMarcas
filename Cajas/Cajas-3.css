@@ -1,0 +1,31 @@
+body{
+    background-color:  #fff176;
+}
+h1{
+    text-align: center;
+}
+div.edades{
+    background-color: #fbc02d;
+    padding-left: 1%;
+    p
+    
+}
+div.amarillo{
+    background-color: #ffeb3b;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+div.naranja{
+    background-color: #f57f17;
+    padding-left: 2%;
+    padding-right: 2%;
+    
+}
+div.info{
+    background-color: #fdd835;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+#primero{
+    background-color: white;
+}

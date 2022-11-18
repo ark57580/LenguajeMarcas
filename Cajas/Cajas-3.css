@@ -4,28 +4,49 @@ body{
 h1{
     text-align: center;
 }
+h2{
+    color: brown;
+    font-size: 30px;
+}
 div.edades{
     background-color: #fbc02d;
-    padding-left: 1%;
-    p
+    padding-right: 5pt;
+    padding-left: 5pt;
+    padding-bottom: 5pt;
+    margin: 5pt;
+    float: left;
+    width: 30%;
+    height: 50%;
     
 }
 div.amarillo{
     background-color: #ffeb3b;
-    margin-left: 2%;
-    margin-right: 2%;
+    padding: 1%;
 }
 div.naranja{
     background-color: #f57f17;
-    padding-left: 2%;
-    padding-right: 2%;
+    color: white;
+    padding-right: 5pt;
+    padding-left: 5pt;
+    padding-bottom: 5pt;
+    margin: 10px;
+    
+    
     
 }
 div.info{
     background-color: #fdd835;
-    padding-left: 2%;
-    padding-right: 2%;
+    color: black;
+    padding-right: 5pt;
+    padding-left: 5pt;
+    padding-bottom: 5pt;
 }
 #primero{
     background-color: white;
+    padding: 1%;
+    float: left;
+    
+}
+#abajo{
+    text-align: center;
 }
